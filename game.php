@@ -45,7 +45,7 @@ $result = check($computer, $human);
 <html>
 
 <head>
-    <title>Dr. Chuck's Rock, Paper, Scissors Game</title>
+    <title>Max AKONDE e2899436</title>
     <?php require_once "bootstrap.php"; ?>
 </head>
 

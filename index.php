@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Charles Severance - Broken Rock Paper Scissors</title>
+    <title>Max AKONDE e2899436</title>
     <?php require_once "bootstrap.php"; ?>
 </head>
 
